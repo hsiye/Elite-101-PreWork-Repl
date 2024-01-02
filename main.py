@@ -1,1 +1,1 @@
-print("Wsg")
+print("Wsg!")
